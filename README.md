@@ -1,5 +1,5 @@
 # C_plus_plus-Project
-This project was implemented during the module of C++ programming language during the 3rd semester of my course.
+This project was implemented during the module of C++ programming language throughout the third semester of my course.
 
 The purpose of this project was to carry out the simulation of robotics cars in order of them to
 explore a planet and also help in the mining of useful resources. These robotics cars are different kinds 
